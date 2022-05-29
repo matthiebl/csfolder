@@ -15,3 +15,11 @@ Personally I have the file located at `~/` and renamed to `.csfolder.py`, so the
 ```bash
 alias csfolder='~/.csfolder'
 ```
+
+Now you can use the script by typing
+
+```bash
+csfolder help
+```
+
+in your terminal.
